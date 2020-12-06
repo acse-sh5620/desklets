@@ -1,0 +1,7 @@
+{
+"uuid": "hello-world@mark", 
+"name": "Hello World Desklet",
+"description": "Display Hello World!",
+"version": "1.0",
+"prevent-decorations": false
+}
